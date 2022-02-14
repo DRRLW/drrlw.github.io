@@ -1,5 +1,4 @@
-# IMC Wiki
-<img src="https://cdn.jsdelivr.net/gh/DRRLW/drrlw.github.io@6a9120908e4681827235a78b876ffbdef10ff249/images/imc_logo.jpg" width="5%">
+# IMC Wiki <img src="https://cdn.jsdelivr.net/gh/DRRLW/drrlw.github.io@6a9120908e4681827235a78b876ffbdef10ff249/images/imc_logo.jpg" width="10%" alt="IMC logo">
 内部人员only  
 
 ## 欢迎来到IMC Wiki
