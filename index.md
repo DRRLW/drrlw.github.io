@@ -12,3 +12,27 @@ Incomplete Music Civilization
 > [角色](https://drrlw.github.io/%E8%A7%92%E8%89%B2)  
 > [故事](https://drrlw.github.io/%E6%95%85%E4%BA%8B)  
 > [游戏玩法](https://drrlw.github.io/%E7%8E%A9%E6%B3%95)  
+
+
+## 成员  
+
+管理员
+---
+DRRLW
+
+贡献者
+---
+@DRRLW  
+@不归  
+@榖雨  
+@赫利乌斯  
+@IC  
+@KiLai  
+@黎穆  
+@林羊  
+@鹿木森  
+@齐光一  
+@拾雪  
+@丝丝  
+@雪狐  
+@Chemiair  
