@@ -10,7 +10,7 @@
 活动区域：白区教堂/白区Enac住所  
 角色形象:  
   
-<img src="https://cdn.jsdelivr.net/gh/DRRLW/drrlw.github.io@main/images/Enac%20Mutumb-RLWReDraw.jpg" width = "90%" alt="Enac Picture">  
+<img src="https://cdn.jsdelivr.net/gh/DRRLW/drrlw.github.io@main/images/Enac%20Mutumb-RLWReDraw.jpg" width = "110%" alt="Enac Picture">  
   
 经历： 
 > 她不知道她的曾经。她知道她的曾经。或者说，她不相信她头脑里被生硬植入的曾经是真正的她的记忆。  
