@@ -145,7 +145,7 @@
 > Episkopos的秘密  
   
   
-[返回上一级](https://drrlw.github.io/%E7%99%BD%E5%8C%BA_%E8%A7%92%E8%89%B2)  
+[返回上一级](https://drrlw.github.io/Character/%E7%99%BD%E5%8C%BA_%E8%A7%92%E8%89%B2)  
 [返回首页](https://drrlw.github.io/index)  
 
 <script src="https://utteranc.es/client.js"
