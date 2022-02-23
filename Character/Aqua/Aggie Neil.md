@@ -3,11 +3,11 @@
 
 姓名：Aggie Neil  
 中文名：艾吉·尼尔  
-性别：女性 
+性别：女性  
 年龄：18岁  
-身高：173cm 
-区域：蓝区  
-活动区域：蓝区 紫区 
+身高：173cm  
+区域：蓝区   
+活动区域：蓝区 紫区   
 经历：
 
 &emsp;&emsp;*和大多数蓝区居民相同，艾吉在蓝区出生，在蓝区长大；与大多数蓝区居民不同，她在信息领域天赋非凡，即便在人才辈出的蓝区中也显得出类拔萃。*
@@ -37,3 +37,14 @@
 - 现正调查"工程师事件”中通信异常的原因
 
 - 对文明研究方面工作略有偏见
+
+[返回上一级](https://drrlw.github.io/Character/%E8%93%9D%E5%8C%BA_%E8%A7%92%E8%89%B2)  
+[返回首页](https://drrlw.github.io/index)  
+
+<script src="https://utteranc.es/client.js"
+        repo="drrlw/drrlw.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
