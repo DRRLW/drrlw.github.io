@@ -47,7 +47,7 @@
 >*画筒有夹层，从内里量长度比外面少了五厘米。*
 
 
-[返回上一级]((https://drrlw.github.io/Character/%E7%B4%AB%E5%8C%BA_%E8%A7%92%E8%89%B2)
+[返回上一级](https://drrlw.github.io/Character/%E7%B4%AB%E5%8C%BA_%E8%A7%92%E8%89%B2)
 
 [返回首页](https://drrlw.github.io/index)
 
