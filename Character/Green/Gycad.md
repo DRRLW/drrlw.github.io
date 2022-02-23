@@ -54,11 +54,11 @@
 >  
 >*几年来一直待在淳朴的村子里生活，知足常乐，并不在意自己忘记的过去。*
 
-<![endif]-->
 
-[返回上一级]( [绿区角色列表 | IMC wiki (drrlw.github.io)](https://drrlw.github.io/Character/%E7%BB%BF%E5%8C%BA_%E8%A7%92%E8%89%B2))
 
-[返回首页]([https://drrlw.github.io/index](https://drrlw.github.io/index))
+[返回上一级]( https://drrlw.github.io/Character/%E7%BB%BF%E5%8C%BA_%E8%A7%92%E8%89%B2)
+
+[返回首页](https://drrlw.github.io/index))
 
 <script src="https://utteranc.es/client.js"
 
