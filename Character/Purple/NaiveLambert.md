@@ -49,11 +49,11 @@
 >    
 >*……她从不知道……吗？*
 
-<![endif]-->
 
-[返回上一级]([紫区角色列表 | IMC wiki (drrlw.github.io)](https://drrlw.github.io/Character/%E7%B4%AB%E5%8C%BA_%E8%A7%92%E8%89%B2))
 
-[返回首页]([https://drrlw.github.io/index](https://drrlw.github.io/index))
+[返回上一级](https://drrlw.github.io/Character/%E7%B4%AB%E5%8C%BA_%E8%A7%92%E8%89%B2)
+
+[返回首页](https://drrlw.github.io/index)
 
 <script src="https://utteranc.es/client.js"
 
