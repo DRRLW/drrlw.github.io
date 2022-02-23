@@ -3,10 +3,10 @@
 
 姓名：Mudie Crace  
 中文名：缪迪·克雷斯  
-性别：男性 
-年龄：23岁  
-身高：182cm 
-区域：蓝区
+性别：男性   
+年龄：23岁    
+身高：182cm   
+区域：蓝区   
 活动区域：蓝区 白区
 经历：
 
@@ -58,4 +58,16 @@
 
 - 作为DO成员活动时，缪迪极少残杀生命，主要工作是骇入电子设备传播信息，大多时间负责善后。目击过他的人说，这是一个情绪不稳定、消极厌世，有时会失控大笑的人。
 
-- 两种截然不同的性格并存在缪迪身上。那么，到底哪一种是伪装呢?
+- 两种截然不同的性格并存在缪迪身上。那么，到底哪一种是伪装呢?  
+  
+  
+[返回上一级](https://drrlw.github.io/Character/%E8%93%9D%E5%8C%BA_%E8%A7%92%E8%89%B2)  
+[返回首页](https://drrlw.github.io/index)  
+
+<script src="https://utteranc.es/client.js"
+        repo="drrlw/drrlw.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
