@@ -95,11 +95,10 @@ Would you know me, mother?
 >  
 >*-她会把对话记录隐藏在文件代码里，可是对话里的人名还是会被系统删掉。* 
 
-<![endif]-->
 
-[返回上一级]( [绿区角色列表 | IMC wiki (drrlw.github.io)](https://drrlw.github.io/Character/%E7%BB%BF%E5%8C%BA_%E8%A7%92%E8%89%B2))
+[返回上一级]( https://drrlw.github.io/Character/%E7%BB%BF%E5%8C%BA_%E8%A7%92%E8%89%B2)
 
-[返回首页]([https://drrlw.github.io/index](https://drrlw.github.io/index))
+[返回首页](https://drrlw.github.io/index)
 
 <script src="https://utteranc.es/client.js"
 
