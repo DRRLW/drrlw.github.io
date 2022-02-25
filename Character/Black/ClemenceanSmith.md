@@ -1,12 +1,12 @@
-姓名：Clemencean Smith
-中文名：克黎门汐恩 史密斯
+姓名：Clemencean Smith  
+中文名：克黎门汐恩 史密斯  
 
-性别：女
-年龄：？
-身高：176
-Area：黑区
-职业：商店老板
-昵称：Cien
+性别：女  
+年龄：？  
+身高：176  
+Area：黑区  
+职业：商店老板  
+昵称：Cien  
 
 人物经历：
 
@@ -59,3 +59,15 @@ Area：黑区
 其他：
 - 源自西班牙语的仁慈：Clemencia 
 - 如果掉入缝隙，90%的可能会在Cien的店里苏醒。
+  
+  
+[返回上一级](https://drrlw.github.io/Character/%E9%BB%91%E5%8C%BA_%E8%A7%92%E8%89%B2)  
+[返回首页](https://drrlw.github.io/index)  
+
+<script src="https://utteranc.es/client.js"
+        repo="drrlw/drrlw.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>  
