@@ -15,9 +15,15 @@ Incomplete Music Civilization
 
 ## 成员  
 
-管理员
+网站管理员
 ---
 DRRLW
+
+网站贡献者
+---
+DRRLW
+IC
+雪狐
 
 贡献者
 ---
