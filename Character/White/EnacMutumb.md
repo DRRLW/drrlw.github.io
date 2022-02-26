@@ -1,6 +1,7 @@
 # 白区角色
 ## Enac Mutumb  
   
+`浸染者`  
 姓名：Enac Mutumb   
 中文名：爱娜克 谬汤暮    
 性别：女性  
