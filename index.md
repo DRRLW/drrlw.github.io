@@ -26,6 +26,10 @@ DRRLW
 IC
 雪狐
 
+<style>
+  body {background-color:#b0c4de;}
+</style>
+
 贡献者
 ---
 @DRRLW  
