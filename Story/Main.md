@@ -6,7 +6,7 @@
 > 零：开场 
 
 ### 白区 
-> 一：教堂的钟声   
+> 一：[教堂的钟声](https://drrlw.github.io/Story/MainStory/01_White)   
 > 二：被封印的声音  
 > 三：希望的列车？  
   
