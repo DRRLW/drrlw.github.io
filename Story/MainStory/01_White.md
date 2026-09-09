@@ -35,7 +35,7 @@ Episkopos【愿神保佑你。】
 
 
 
-[上一章节]https://drrlw.github.io/Story/MainStory/0_Start） 
+[上一章节](https://drrlw.github.io/Story/MainStory/0_Start)  
 [下一章节](https://drrlw.github.io/Story/Main)
 
 [返回上一级](https://drrlw.github.io/Story/Main)
