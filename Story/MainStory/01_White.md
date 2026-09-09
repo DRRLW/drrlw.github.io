@@ -43,18 +43,11 @@ Episkopos【愿神保佑你。】
 [返回首页](https://drrlw.github.io/index)
 
 <script src="https://utteranc.es/client.js"
-
-repo="drrlw/drrlw.github.io"
-
-issue-term="title"
-
-theme="github-light"
-
-crossorigin="anonymous"
-
-async>
-
+        repo="drrlw/drrlw.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
 </script>
-
 
 

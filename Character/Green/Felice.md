@@ -101,15 +101,9 @@ Would you know me, mother?
 [返回首页](https://drrlw.github.io/index)
 
 <script src="https://utteranc.es/client.js"
-
-repo="drrlw/drrlw.github.io"
-
-issue-term="title"
-
-theme="github-light"
-
-crossorigin="anonymous"
-
-async>
-
-</script> 
+        repo="drrlw/drrlw.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
