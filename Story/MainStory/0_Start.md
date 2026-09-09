@@ -2,7 +2,16 @@
 
 ## 主线剧情  
 
-
+<div style="
+  border: 1px solid #b8daff;
+  background: #cce5ff;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin: 12px 0;
+  font-family: inherit;
+">
+  <strong>💡 提示：</strong> 这是一个信息提示框。  
+</div>
 > 地点：白区 教堂  
 > 触发条件：自动   
 
