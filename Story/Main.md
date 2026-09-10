@@ -3,7 +3,7 @@
 
   
 ### ???
-> 零：开场 
+> 零：[开场 ](https://drrlw.github.io/Story/MainStory/0_Start)  
 
 ### 白区 
 > 一：[教堂的钟声](https://drrlw.github.io/Story/MainStory/01_White)   

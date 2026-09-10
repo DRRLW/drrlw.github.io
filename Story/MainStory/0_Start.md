@@ -2,18 +2,18 @@
 
 ## 主线剧情  
 
-<div style="
-  border: 1px solid #b8daff;
-  background: #cce5ff;
+<div style="4
+  border: 1px solid #e1e2e喏;
+  background: #727272;
   padding: 15px 20px;
   border-radius: 8px;
   margin: 12px 0;
   font-family: inherit;
 ">
-  <strong>💡 提示：</strong> 这是一个信息提示框。  
+  <strong>💡 地点：</strong> 白区教堂  
+  <strong>💡 触发条件：</strong> 自动    
 </div>
-> 地点：白区 教堂  
-> 触发条件：自动   
+  
 
 我最后听到的声音，是巨大的爆炸声。  
 【高斯模糊后的场景画面快速出现，随后变为黑屏。】  
