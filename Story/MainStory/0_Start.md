@@ -3,14 +3,15 @@
 ## 主线剧情  
 
 <div style="4
-  border: 1px solid #e1e2e喏;
-  background: #727272;
+  border: 1px solid #4a4b4b;
+  background: #c2c2c2;
   padding: 15px 20px;
   border-radius: 8px;
   margin: 12px 0;
   font-family: inherit;
 ">
   <strong>💡 地点：</strong> 白区教堂  
+    
   <strong>💡 触发条件：</strong> 自动    
 </div>
   
