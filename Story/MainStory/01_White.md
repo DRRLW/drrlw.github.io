@@ -2,10 +2,20 @@
 
 ## 主线剧情  
 
+<div style="4
+  border: 1px solid #4a4b4b;
+  background: #c2c2c2;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin: 12px 0;
+  font-family: inherit;
+">
+  <strong>💡 地点：</strong> 白区教堂  <br>
+    
+  <strong>💡 触发条件：</strong> 进入教堂   <br>
 
-> 地点：白区 教堂  
-> 触发条件：进入教堂  
-> 奖励：一首新曲子  
+  <strong>💡 奖励：</strong> 一首新曲子   <br>
+</div>
 
 > 玩家第一次进入教堂，会触发第一次打歌&教学，新增一首歌。同时解锁选歌器，附带一些初始设定的歌，可以随时随地打开打歌。  
 
@@ -32,6 +42,10 @@
 Episkopos【愿神保佑你。】  
 人们低语着。  
 【任务结束，此时不出教堂可以和白区大部分npc交流。】  
+
+
+### 相关文档  
+
 
 
 
