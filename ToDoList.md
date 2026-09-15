@@ -4,8 +4,11 @@
 
 -----
 ### Story板块  
-1. [【零】开场](https://drrlw.github.io/Story/MainStory/0_Start)  
+1. [【零】开场](https://drrlw.github.io/Story/MainStory/0_Start)
+
 > 需要修改佐佐木在每个选项内的发言内容  
+2. [被封印的声音](https://drrlw.github.io/Story/MainStory/02_White)  
+> 需要修改一下剧情，调整ui使其更好分辨  
   
   
   

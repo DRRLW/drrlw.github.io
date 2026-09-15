@@ -7,7 +7,7 @@
 
 ### 白区 
 > 一：[教堂的钟声](https://drrlw.github.io/Story/MainStory/01_White)   
-> 二：被封印的声音  
+> 二：[被封印的声音](https://drrlw.github.io/Story/MainStory/02_White)  
 > 三：希望的列车？  
   
 ### 红区  
